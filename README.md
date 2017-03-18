@@ -24,13 +24,13 @@ Markdown 常用的标记符号不多, 如: 标题, 段落, 斜体&粗体, 列表
 
 斜体与粗体叠加, 在需要斜体与粗体的文字前后加上三个'*', 如 ***斜体与粗体***
 
-## 其他示例等, 详见 [Markdown标记用法](Markdow标记用法.md)
+## 其他示例等, 详见 [Markdown 常用标记用法](markdown.md)
 
 # Markdown 能做什么
 
 可以用来写 说明文档, 也可以用来写 博客, 记笔记, 文字创作, 写书等. 比如说, 本篇README, 就是Markdown写的. 
 
-再比如说愿望清单, TO DO LIST等, [我的愿望清单](mylist.md)
+再比如说愿望清单, TO DO LIST等, [我的愿望清单2017](wishlist_2017.md)
 
 2017-03-18
 chenduoyi 于深圳
