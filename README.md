@@ -24,7 +24,7 @@ Markdown 常用的标记符号不多, 如: 标题, 段落, 斜体&粗体, 列表
 
 斜体与粗体叠加, 在需要斜体与粗体的文字前后加上三个'*', 如 ***斜体与粗体***
 
-## 其他示例等, 详见 [Markdown 常用标记用法](markdown.md)
+## 其他示例等, 详见 [Markdown 常用标记用法[基础]](markdown_a.md) [Markdown 常用标记用法[进阶]](markdown_b.md)
 
 # Markdown 能做什么
 
