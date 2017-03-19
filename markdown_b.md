@@ -9,7 +9,7 @@
 
 内嵌式链接, 指的是, 链接直接写在链接文字的后面, 需要一次, 写一次.
 
-- 外部链接 [百度](http://www.baidu.com)
+- 外部链接 [百度](http://www.baidu.com){:target="_blank"}
 - 内部链接 [Markdown 常用标记用法(基础)](markdown-a.md)
 - 锚点链接 [Markdown 常用标记用法(基础)](markdown-a.md#段落)
 
@@ -21,7 +21,7 @@
 
 文末的引用链接地址写法, 中括号, 里面对应前文写的链接标题文字, 加上':', 后面接上链接地址.
 
-- 外部链接 [百度]
+- 外部链接 [百度]{:target="_blank"}
 - 内部链接 [Markdown 常用标记用法(基础)](markdown-a.md)
 - 锚点链接 [Markdown 常用标记用法(基础)](markdown-a.md#段落)
 
@@ -33,9 +33,8 @@
 
 图片标记与链接标记, 几乎一样, 区别就是, 在最前面加一个感叹号'!', 后面也是接一对中括号, 里面写图片alt内容, 再后面也是一对小括号, 里面写上url地址, 然后可以空一格, 再写上 图片的标题, titile 内容. 注意, title内容可不写, 如果写的话, 需要加上双引号
 
-- 外部图片 ![百度logo](https://www.baidu.com/img/bd_logo1.png "百度logo")
+- 外部图片 ![百度logo](https://www.baidu.com/img/bd_logo1.png "百度logo"){:target="_blank"}
 - 内部图片 ![风景图片](images/fj5.jpg "风景")
-- 内部图片 ![风景图片](images/fj8.jpg "风景")
 
 
 
