@@ -1,5 +1,26 @@
 # 代码与代码块
 
+## 行内代码
+
+行内代码, 在一行文字中间写了代码, 在代码的前后, 使用一个反引号包起来, (键盘左处角, esc键下面的那个键). 如, `echo 'hello world'`, 这是很多语言的第一个入门教程.
+
+## 代码块
+
+代码块, 代码块的前后, 用三个反引号包起来, 在前面的三个反引号之后, 可以跟上语言说明是哪种编程语言, 比如说php, 如
+
+```php
+//curl请求
+$ch = curl_init();
+curl_setopt($ch, CURLOPT_URL, $url);
+curl_setopt($ch, CURLOPT_POST, 1);
+curl_setopt($ch, CURLOPT_SAFE_UPLOAD, false);
+curl_setopt($ch, CURLOPT_POSTFIELDS, $data);
+curl_exec($ch);
+curl_close($ch);
+echo $res;
+exit;
+```
+
 
 # 链接
 
